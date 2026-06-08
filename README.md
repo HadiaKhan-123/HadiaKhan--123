@@ -30,6 +30,6 @@ A fully automated pipeline that detects keyword comments on Instagram posts and 
 
 ## 📬 Contact
 
-- Portfolio: [YOUR_PORTFOLIO_URL]
+- Portfolio: (https://hadia-khan-portfolio.netlify.app/)
 - LinkedIn: [Hadia Khan](https://www.linkedin.com/in/hadia-khan-82ba75189/)
 - Email: khanhadia641@gmail.com
