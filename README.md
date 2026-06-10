@@ -16,7 +16,7 @@ I build automation systems that handle real work — not tutorial clones.
 
 ## 🔧 What I've Built
 
-### [Instagram Comment-to-DM Automation](https://github.com/HadiaKhan-123/instagram-comment-to-dm)
+### [Instagram Comment-to-DM Automation]([https://github.com/HadiaKhan-123/instagram-comment-to-dm](https://github.com/HadiaKhan-123/Instagram-Comment-to-DM-Automation))
 
 Detects keyword comments on Instagram → fires a public reply + private DM. Zero manual work. Runs 24/7.
 
