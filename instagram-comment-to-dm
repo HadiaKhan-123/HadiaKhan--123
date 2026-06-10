@@ -1,0 +1,15 @@
+# Instagram Comment-to-DM Automation
+
+A live automation pipeline built with n8n, Meta Graph API, and ManyChat.
+
+**What it does:** When someone comments a keyword (e.g. "info") on an Instagram post, the system automatically sends a public reply and a private DM — with zero manual effort, 24/7.
+
+---
+
+## The Problem
+
+Meta completely overhauled their API and developer platform in 2024. Every existing tutorial, blog post, and YouTube walkthrough was outdated. I had to read the official Meta documentation from scratch and rebuild the entire OAuth flow and webhook setup manually.
+
+---
+
+## Architecture
